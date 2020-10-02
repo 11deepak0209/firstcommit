@@ -1,7 +1,7 @@
 {
   "name": "GitMe",
   "description": "GitMe - Git workshop exercise",
-  "version": "1.0.0",
+  "version": "1.0.O",
   "author": "haxzie <musthu.gm@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.279",
